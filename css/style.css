@@ -73,15 +73,6 @@ body {
   border: 1px solid #EDEEF0;
 }
 
-.login__terms {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding-bottom: 40px;
-  margin-top: 9px;
-  border-bottom: 1px solid #EDEEF0;
-}
-
 .login__btn {
   width: 198px;
   padding: 14.5px;
